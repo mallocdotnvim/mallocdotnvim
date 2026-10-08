@@ -14,7 +14,7 @@ A student who loves programming.
 ![Zed](https://img.shields.io/badge/zed-black?style=for-the-badge&logo=zedindustries)
 ![Alacritty](https://img.shields.io/badge/alacritty-black?style=for-the-badge&logo=alacritty)
 
-## Fields I am interested in
+## Fields & Categories I am interested in
 - System Software
 - Tools
 - Operating Systems
